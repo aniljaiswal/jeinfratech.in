@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: http://jeinfratech.in/404.html
